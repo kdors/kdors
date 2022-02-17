@@ -2,7 +2,7 @@
 
 You can call me Kennedy. 
 
-I’m a biostatistics master's student, and I’m interested in **statistical programming**, **machine learning**, and **software devlopment**. I hope to
+I’m a biostatistics master's student, and I’m interested in **statistics/statistical programming**, **machine learning**, and **software development**. I hope to
 populate my Github with what I'm learning ~~to hold myself accountable~~ to showcase some interesting things I learn along the way!
 
 
